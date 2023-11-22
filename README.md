@@ -2,7 +2,7 @@
 this shell theme is inspired from https://github.com/imarkoff/Marble-shell-theme
 based on kumkuma color scheme, adwaitha design language
 wallpaper is a screenshot from https://www.youtube.com/watch?v=WKA-9kSKVUo
-https://www.pling.com/p/2107815/
+gnome shell in pling https://www.pling.com/p/2107815/
 
 
 #output
